@@ -1,0 +1,783 @@
+Vodafone Portugal
+jun/25
+Analógicos Digitais
+1 RTP 1 HD nacional x x x x
+2 RTP 2 HD nacional x x x x
+3 SIC HD nacional x x x x
+4 TVI HD nacional x x x x
+5 SIC Notícias HD nacional x x x x
+6 RTP 3 HD nacional x x x x
+7 CNN Portugal HD nacional x x x x
+8 CMTV HD nacional x x x x
+9 NEWS NOW nacional x x x x x
+10 GLOBO HD entretenimento x x x x
+11 Canal 11 HD desporto x x x x
+12 V+ TVI nacional x x x x
+13 Porto Canal HD nacional x x x
+14 SIC Caras HD nacional x x x x
+15 SIC Radical HD nacional x x x x
+16 SIC Mulher HD nacional x x x x
+17 RTP Memória nacional x x x x
+19 Sport TV + HD desporto x x x x
+20 Sport TV 1 HD desporto x x
+21 Sport TV 2 HD desporto x x
+22 Sport TV 3 HD desporto x x
+23 Sport TV 4 HD desporto x x
+24 Sport TV 5 HD desporto x x
+25 Sport TV 6 HD desporto x x
+26 Sport TV 7 HD desporto x x
+29 Eurosport 1 HD desporto x x x x
+30 Eurosport 2 HD desporto x x x x
+31 A BOLA TV HD desporto x x x x
+32 BTV HD desporto x x
+34 Sporting TV HD desporto x x x x
+35 DAZN 1 desporto x x
+36 DAZN 2 desporto x x
+37 DAZN 3 desporto x x
+38 DAZN 4 desporto x x
+39 DAZN 5 desporto x x
+44 Fight Network HD desporto x x
+45 Fightbox HD desporto x x
+46 Nautical Channel desporto x x
+47 Fuel TV HD desporto x x x x
+48 NBA Sport TV HD desporto x x
+50 Disney Channel infantil x x x x x
+51 Disney Junior HD infantil x x x
+52 Panda Kids infantil x x x x
+53 Cartoon Network HD infantil x x x
+54 Panda HD infantil x x x
+56 Baby TV infantil x x
+57 SIC K HD Infantil x x x x
+58 Cartoonito HD infantil x x x
+60 Nickelodeon HD infantil x x x x
+61 Super RTL Infantil x x
+63 Panda + Canal interativo x
+65 Biggs HD infantil x x x
+66 Pack Playtime Canal interativo Box HD/App
+67 Cine Kids Canal interativo Box HD/App
+68 Dizi filmes e séries x x x x
+69 SIC Novelas nacional x x x x
+70 TVCine TOP HD filmes e séries x x
+71 TVCine EDITION HD filmes e séries x x
+72 TVCine EMOTION HD filmes e séries x x
+73 TVCine ACTION HD filmes e séries x x
+76 Hollywood HD filmes e séries x x x x
+77 CINEMUNDO HD filmes e séries x x x x
+78 STAR Movies HD filmes e séries x x x x
+79 STAR Channel HD filmes e séries x x x x
+80 AXN HD filmes e séries x x x x
+81 STAR Life HD filmes e séries x x x x
+82 STAR Crime HD filmes e séries x x x x
+84 STAR Comedy HD filmes e séries x x x x
+85 AXN White HD filmes e séries x x x x
+86 AXN Movies HD filmes e séries x x x x
+87 SyFy HD filmes e séries x x
+88 SyFy SD filmes e séries x x x x
+89 AMC HD filmes e séries x x x x
+90 EuroChannel PT filmes e séries x x
+91 OPTO SIC Canal interativo x
+92 Disney+ Canal interativo x
+93 Apple TV+ Canal interativo x
+94 HBO Max Canal interativo x
+95 Netflix Canal interativo x
+96 Amazon Prime Canal interativo x
+100 Canais
+Grelha Completa de Canais
+Posição Canal Tema 140 Canais 170 Canais
+Canais/Serviços
+Premium/
+Interativos
+App Vodafone
+TV
+97 Indie World Canal interativo Box HD/App
+98 Super 8 Canal interativo Box HD/App
+99 Pack Playmotion Canal interativo Box HD/App
+100 M-Cine Canal interativo Box HD/App
+101 FILMIN Canal interativo
+x
+102 Canal de Trailers Canal interativo Box HD
+103 YouTube Canal interativo
+x
+x
+104 Canal Q HD nacional
+x
+x
+x
+105 MTV Portugal HD Música
+x
+x
+x
+x
+106 MTV 00s HD Música
+x
+x
+x
+x
+107 Stingray Classica HD Música
+x
+108 Stingray Djazz HD Música
+x
+109 MCM TOP HD Música
+x
+x
+x
+x
+110 MCM POP HD Música
+x
+x
+111 C Music Música
+x
+x
+x
+x
+112 MEZZO Música
+x
+x
+113 Afro Music Música
+x
+x
+114 Trace Urban HD Música
+x
+x
+x
+115 Trace Toca Música
+x
+x
+x
+x
+116 Mezzo Live HD Música
+x
+x
+119 24 Kitchen HD entretenimento
+x
+x
+x
+x
+120 Casa e Cozinha entretenimento
+x
+x
+x
+121 Food Network HD entretenimento
+x
+x
+x
+122 Discovery HD documentários
+x
+x
+x
+x
+123 National Geographic HD documentários
+x
+x
+x
+x
+124 National Geographic Wild HD documentários
+x
+x
+x
+x
+125 História documentários
+x
+x
+x
+x
+x
+126 Odisseia HD documentários
+x
+x
+x
+x
+127 Docubox HD documentários
+x
+x
+128 AMC Crime documentários
+x
+x
+x
+x
+129 S+ nacional
+x
+x
+x
+x
+130 ID - Investigation Discovery entretenimento
+x
+x
+x
+x
+131 TVI Reality entretenimento
+x
+x
+x
+x
+134 TV Record HD entretenimento
+x
+x
+x
+x
+135 AMC BREAK HD entretenimento
+x
+x
+x
+136 TLC HD entretenimento
+x
+x
+x
+x
+137 E! Entertainment HD entretenimento
+x
+x
+x
+x
+138 Travel HD entretenimento
+x
+x
+x
+139 Fashion TV HD entretenimento
+x
+x
+x
+140 HGTV entretenimento
+x
+x
+x
+x
+142 M6 entretenimento
+x
+x
+143 FastnFunBox HD entretenimento
+x
+x
+144 Ginx Esports TV HD entretenimento
+x
+x
+x
+145 Luxe TV HD entretenimento
+x
+x
+146 Insight TV HD entretenimento
+x
+x
+x
+x
+147 Insight TV UHD entretenimento
+x
+x
+x
+148 FUNBOX 4K entretenimento
+x
+x
+x
+150 Stingray Naturescape HD entretenimento
+x
+151 My Zen HD entretenimento
+x
+x
+152 Gametoon HD entretenimento
+x
+x
+x
+x
+154 AR TV notícias
+x
+x
+x
+x
+x
+155 Record News notícias
+x
+x
+x
+x
+156 CNN HD notícias
+x
+x
+157 Euronews PT notícias
+x
+x
+x
+x
+158 Euronews English notícias
+x
+x
+x
+x
+159 Bloomberg notícias
+x
+x
+x
+x
+160 Sky News notícias
+x
+x
+x
+x
+161 BBC World notícias
+x
+x
+x
+163 CNBC notícias
+x
+x
+x
+x
+164 Al Jazeera English notícias
+x
+x
+x
+x
+165 RAI NEWS notícias
+x
+x
+166 TVE 24h notícias
+x
+x
+x
+x
+167 DW (English) notícias
+x
+x
+x
+x
+168 France 24 FR notícias
+x
+x
+x
+x
+169 France 24 English notícias
+x
+x
+x
+x
+170 TVC News notícias
+x
+x
+x
+x
+171 Phoenix InfoNews notícias
+x
+x
+174 RTP Madeira HD nacional
+x
+x
+x
+175 RTP Açores HD nacional
+x
+x
+x
+176 Localvisão HD nacional
+x
+x
+x
+x
+177 RTP África internacional
+x
+x
+x
+x
+178 TPA internacional
+x
+x
+x
+x
+179 TCV Internacional internacional
+x
+x
+180 Canal 180 HD entretenimento
+x
+x
+181 TV Galicia internacional
+x
+x
+x
+x
+182 TVEi internacional
+x
+x
+x
+x
+183 TV5 Monde internacional
+x
+x
+x
+x
+184 RAI 1 internacional
+x
+x
+x
+x
+185 VOX internacional
+x
+x
+186 RTL internacional
+x
+x
+187 Russia Today Doc internacional
+x
+x
+x
+188 Russia Today internacional
+x
+x
+x
+189 PRO TV International internacional
+x
+x
+x
+x
+190 KBS World HD internacional
+x
+x
+191 Arirang TV HD internacional
+x
+x
+192 NHK World internacional
+x
+x
+x
+x
+193 Cubavision internacional
+x
+x
+x
+x
+195 UA | TV internacional
+x
+x
+x
+x
+202 SET Asia internacional
+x
+x
+203 Utsav Plus internacional
+x
+x
+204 SET MAX internacional
+x
+x
+205 Utsav Gold internacional
+x
+x
+210 Canção Nova Temáticos
+x
+x
+x
+x
+211 UNIFÉ TV Temáticos
+x
+x
+x
+x
+212 Kuriakos TV HD Temáticos
+x
+x
+x
+x
+216 Caça&Pesca Temáticos
+x
+x
+217 Caçavision HD Temáticos
+x
+x
+218 DOG TV entretenimento
+x
+x
+220 OneToro Temáticos
+x
+x
+269 OH YES! Canal interativo Box HD/App
+270 Playboy TV HD Adultos
+x
+271 Hustler TV Adultos
+x
+272 Blue Hustler Adultos
+x
+273 HOT Adultos
+x
+274 Penthouse Passion HD Adultos
+x
+275 Penthouse Gold HD Adultos
+x
+276 Penthouse Passion SD Adultos
+x
+277 Penthouse Gold SD Adultos
+x
+278 HOT HD Adultos
+x
+279 HOT MAN HD Adultos
+x
+280 HOT TABOO HD Adultos
+x
+283 PlayBoy Canal interativo Box HD/App
+301 BenficaTV Multicâmara desporto
+x
+x
+302 BenficaTV Multicâmara desporto
+x
+x
+303 BenficaTV Multicâmara desporto
+x
+x
+304 BenficaTV Multicâmara desporto
+x
+x
+501 RTP 1 nacional
+x
+x
+x
+502 RTP 2 nacional
+x
+x
+x
+503 SIC nacional
+x
+x
+x
+504 TVI nacional
+x
+x
+x
+505 SIC Notícias nacional
+x
+x
+x
+506 RTP 3 nacional
+x
+x
+x
+507 CNN Portugal nacional
+x
+x
+x
+508 CMTV nacional
+x
+x
+x
+510 Globo entretenimento
+x
+x
+x
+511 Canal 11 desporto
+x
+x
+x
+513 Porto Canal nacional
+x
+x
+514 SIC Caras nacional
+x
+x
+x
+515 SIC Radical nacional
+x
+x
+516 SIC Mulher nacional
+x
+x
+x
+519 Sport TV + desporto
+x
+x
+x
+520 SportTV1 desporto
+x
+521 SportTV2 desporto
+x
+522 SportTV3 desporto
+x
+523 SportTV4 desporto
+x
+524 SportTV5 desporto
+x
+525 SportTV6 desporto
+x
+529 Eurosport desporto
+x
+x
+x
+530 Eurosport 2 desporto
+x
+x
+531 A BOLA TV desporto
+x
+x
+532 BTV desporto
+x
+534 Sporting TV desporto
+x
+x
+547 Fuel TV SD desporto
+x
+x
+551 Disney Junior infantil
+x
+x
+x
+x
+553 Cartoon Network SD infantil
+x
+x
+x
+x
+554 Panda infantil
+x
+x
+x
+x
+557 SIC K infantil
+x
+x
+558 Cartoonito SD infantil
+x
+x
+x
+560 Nickelodeon SD infantil
+x
+x
+565 Biggs SD infantil
+x
+x
+x
+570 TVCine TOP filmes e séries
+x
+571 TVCine EDITION filmes e séries
+x
+572 TVCine EMOTION filmes e séries
+x
+573 TVCine ACTION filmes e séries
+x
+576 Hollywood filmes e séries
+x
+x
+x
+577 CINEMUNDO SD filmes e séries
+x
+x
+578 STAR Movies SD filmes e séries
+x
+x
+x
+579 STAR Channel filmes e séries
+x
+x
+x
+580 AXN filmes e séries
+x
+x
+x
+581 STAR Life filmes e séries
+x
+x
+x
+582 STAR Crime SD filmes e séries
+x
+x
+x
+584 STAR Comedy SD filmes e séries
+x
+x
+585 AXN White filmes e séries
+x
+x
+x
+586 AXN Movies filmes e séries
+x
+x
+x
+589 AMC SD filmes e séries
+x
+x
+x
+590 EuroChannel FR filmes e séries
+x
+604 Canal Q nacional
+x
+x
+x
+605 MTV Portugal Música
+x
+x
+609 MCM TOP SD Música
+x
+x
+610 MCM POP SD Música
+x
+613 Afro Music SD Música
+x
+614 Trace Urban SD Música
+x
+x
+x
+619 24 Kitchen SD entretenimento
+x
+x
+620 Casa e Cozinha SD entretenimento
+x
+x
+x
+621 Food Network entretenimento
+x
+x
+x
+622 Discovery documentários
+x
+x
+x
+623 National Geographic documentários
+x
+x
+x
+624 National Geographic Wild documentários
+x
+x
+626 Odisseia documentários
+x
+x
+634 TV Record entretenimento
+x
+x
+x
+635 AMC BREAK entretenimento
+x
+x
+x
+636 TLC entretenimento
+x
+x
+637 E! Entertainment entretenimento
+x
+x
+638 Travel Channel entretenimento
+x
+x
+x
+639 Fashion TV entretenimento
+x
+x
+x
+644 Ginx SD entretenimento
+x
+x
+x
+656 CNN notícias
+x
+674 RTP Madeira nacional
+x
+x
+x
+675 RTP Açores nacional
+x
+x
+x
+676 Localvisão SD nacional
+x
+x
+680 Canal 180 SD entretenimento
+x
+x
+x
+681 DAZN 6 desporto
+x
+x
+717 Caçavision Temáticos
+x

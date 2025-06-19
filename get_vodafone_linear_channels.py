@@ -49,6 +49,96 @@ def parse_pdf_file(filepath: str) -> List[str]:
     lines = [line.strip() for line in text.split('\n') if line.strip()]
     return lines
 
+def parse_ro_txt_file(filepath: str) -> List[tuple]:
+    """Parse a RO TXT file and return a list of (index, channel name) tuples."""
+    import re
+    channels = []
+    with open(filepath, 'r', encoding='utf-8') as f:
+        lines = [line.strip() for line in f if line.strip()]
+    i = 0
+    while i < len(lines):
+        # Look for a line that is just a number (the index)
+        if re.match(r'^\d+$', lines[i]):
+            idx = int(lines[i])
+            i += 1
+            # Skip any '+ONLINE' or 'channel logo' lines
+            while i < len(lines) and (lines[i] == '+ONLINE' or lines[i].lower() == 'channel logo'):
+                i += 1
+            # The next non-empty line is the channel name
+            if i < len(lines):
+                name = lines[i].strip()
+                channels.append((idx, name))
+        i += 1
+    # Remove duplicates (same index and name)
+    seen = set()
+    unique_channels = []
+    for idx, name in channels:
+        key = (idx, name)
+        if key not in seen:
+            unique_channels.append((idx, name))
+            seen.add(key)
+    return unique_channels
+
+def parse_gr_txt_file(filepath: str) -> List[tuple]:
+    """Parse a GR TXT file and return a list of (index, channel name) tuples. Index is always 0."""
+    channels = []
+    with open(filepath, 'r', encoding='utf-8') as f:
+        for line in f:
+            name = line.strip()
+            if name:
+                channels.append((0, name))
+    return channels
+
+def parse_cz_txt_file(filepath: str) -> List[tuple]:
+    """Parse a CZ TXT file and return a list of (index, channel name) tuples."""
+    import re
+    channels = []
+    with open(filepath, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            # Match lines starting with an integer index
+            match = re.match(r'^(\d+)\s+(.+)$', line)
+            if match:
+                idx, name = match.groups()
+                channels.append((int(idx), name.strip()))
+    return channels
+
+def parse_ie_txt_file(filepath: str) -> List[tuple]:
+    channels = []
+    with open(filepath, 'r', encoding='utf-8') as f:
+        lines = [line.strip() for line in f if line.strip()]
+    # Only take every other line (assuming first is logo, second is channel name)
+    for i in range(1, len(lines), 2):
+        channels.append((0, lines[i]))
+    return channels
+
+def parse_al_txt_file(filepath: str) -> List[tuple]:
+    """Parse an AL TXT file and return a list of (index, channel name) tuples."""
+    import re
+    channels = []
+    with open(filepath, 'r', encoding='utf-8') as f:
+        lines = [line.strip() for line in f if line.strip()]
+    i = 0
+    while i < len(lines):
+        # Look for a line that is just a number (the index)
+        if re.match(r'^\d+$', lines[i]):
+            idx = int(lines[i])
+            i += 1
+            # The next non-empty line is the channel name
+            if i < len(lines):
+                name = lines[i].strip()
+                channels.append((idx, name))
+        i += 1
+    # Remove duplicates (same index and name)
+    seen = set()
+    unique_channels = []
+    for idx, name in channels:
+        key = (idx, name)
+        if key not in seen:
+            unique_channels.append((idx, name))
+            seen.add(key)
+    return unique_channels
+
 def main(input_files: Dict[str, str], output_excel: str):
     """
     input_files: dict mapping territory code to file path
@@ -59,6 +149,16 @@ def main(input_files: Dict[str, str], output_excel: str):
     for territory, filepath in input_files.items():
         if territory == 'PT' and filepath.lower().endswith('.txt'):
             channels = parse_pt_txt_file(filepath)
+        elif territory == 'RO' and filepath.lower().endswith('.txt'):
+            channels = parse_ro_txt_file(filepath)
+        elif territory == 'GR' and filepath.lower().endswith('.txt'):
+            channels = parse_gr_txt_file(filepath)
+        elif territory == 'CZ' and filepath.lower().endswith('.txt'):
+            channels = parse_cz_txt_file(filepath)
+        elif territory == 'IE' and filepath.lower().endswith('.txt'):
+            channels = parse_ie_txt_file(filepath)
+        elif territory == 'AL' and filepath.lower().endswith('.txt'):
+            channels = parse_al_txt_file(filepath)
         elif filepath.lower().endswith('.txt'):
             channels = parse_txt_file(filepath)
         else:
@@ -85,9 +185,9 @@ def main(input_files: Dict[str, str], output_excel: str):
     print(f"Excel file written to {output_excel}")
 
 if __name__ == "__main__":
-    # Example usage: python get_vodafone_linear_channels.py AL=albania.txt DE=germany.pdf ... output.xlsx
+    # Example usage: python get_vodafone_linear_channels.py AL=inputs/albania.txt DE=inputs/germany.txt ... outputs/output.xlsx
     if len(sys.argv) < 3:
-        print("Usage: python get_vodafone_linear_channels.py AL=albania.txt DE=germany.pdf ... output.xlsx")
+        print("Usage: python get_vodafone_linear_channels.py AL=inputs/albania.txt DE=inputs/germany.txt ... outputs/output.xlsx")
         sys.exit(1)
     *file_args, output_excel = sys.argv[1:]
     input_files = {}

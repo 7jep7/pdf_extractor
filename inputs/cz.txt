@@ -1,0 +1,201 @@
+Řazení programů Vodafone TV
+Powered by TCPDF (www.tcpdf.org)
+Základní
+0 Prima+
+1 ČT 1 HD
+2 ČT 2 HD
+3 NOVA HD
+4 Prima HD
+5 ČT 24 HD
+6 ČT sport HD
+7 ČT :D HD
+7 ČT art HD
+8 NOVA Cinema HD
+9 NOVA Action HD
+10 NOVA Gold HD
+11 NOVA Fun HD
+12 NOVA Lady HD
+13 Prima COOL HD
+14 Prima ZOOM HD
+15 Prima LOVE HD
+16 Prima MAX HD
+17 DVTV Extra
+18 Paramount Network
+19 Prima Show HD
+20 KVIFF.TV Channel
+21 Barrandov HD
+23 seznam.cz TV HD
+24 JOJ family HD
+25 JOJ Cinema HD
+26 FilmBox HD
+27 Prima Star HD
+28 CNN Prima News HD
+29 Prima Krimi HD
+30 Warner TV
+Cinema
+31 HBO HD
+32 HBO 2 HD
+33 HBO 3 HD
+34 Cinemax HD
+35 Cinemax 2 HD
+Family
+36 Film Europe HD
+Cinema / Family
+37 FilmBox Extra HD
+38 FilmBox Premium HD
+39 FilmBox Stars
+Family
+40 AMC HD
+41 AXN HD
+44 CS Film
+44 CS Horror
+46 Film Europe+ HD
+47 Film+ HD
+48 Epic Drama HD
+Cinema / Family
+49 FilmBox Family
+Základní
+50 A11
+51 Kino Barrandov HD
+52 Barrandov Krimi HD
+Family
+53 Viasat True Crime
+Základní
+54 Markíza International
+55 RELAX HD
+Family
+56 BBC First
+Základní
+59 Praha TV
+60 Sporty TV
+Sport
+61 NOVA sport 1 HD
+62 NOVA sport 2 HD
+63 NOVA sport 3 HD
+64 NOVA sport 4 HD
+65 Eurosport 1 HD
+66 Eurosport 2 HD
+67 Sport 1 HD
+68 Sport 2 HD
+71 Arena Sport 1 HD
+72 Arena Sport 2 HD
+73 Auto-Motor Sport HD
+74 Golf channel HD
+75 Nova Sport 5 HD
+76 Nova Sport 6 HD
+Cinema / Family / Sport
+77 Fast&Fun HD
+78 FightBox HD
+Základní
+79 CS History
+80 CS Mystery
+81 Love Nature 4K/UHD
+82 Animal Planet HD
+83 Discovery Channel
+84 Discovery TLC HD
+Cinema / Family
+85 DocuBox HD
+Základní
+86 Discovery ID HD
+87 Spektrum HD
+88 History HD
+89 Crime&Investigation
+Family
+90 National Geographic HD
+91 National Geographic Wild HD
+Základní
+92 Spektrum Home HD
+93 TV Paprika HD
+Family
+94 BBC Earth
+Sport
+95 Fishing & Hunting
+Základní
+96 Travel channel HD
+Family
+97 Viasat Explore HD
+98 Viasat History HD
+99 Viasat Nature HD
+Základní
+100 Vodafone 100
+101 Óčko HD
+102 Óčko Star HD
+103 Óčko Black HD
+104 RETRO
+105 REBEL
+106 MTV Hits
+107 MTV Live
+108 MTV
+109 Club MTV
+110 MTV 90s
+111 MTV 00s
+112 MTV 80s
+113 Šláger 2
+114 Šláger 1
+115 Mezzo LIVE
+116 Mezzo HD
+118 Óčko Expres HD
+120 Nicktoons
+121 Nickelodeon
+122 Nick jr.
+Family
+123 Disney Channel
+Základní
+124 Minimax
+125 Lala TV
+126 Jim Jam
+Family
+127 Cartoonito
+128 BabyTV
+129 Cartooon Network HD
+Základní
+130 TV Noe HD
+131 Hobby TV HD
+132 Mňau TV
+133 Mňam TV HD
+134 Food Network HD
+137 Fashion TV HD
+138 duck TV HD
+139 Park TV HD
+141 regiony+
+143 RTM+
+144 ABC TV
+145 TV8 HD
+148 Polar
+152 CNN
+153 Euronews DE
+154 Euronews HD
+155 France 24
+156 DW
+157 TA 3 HD
+158 France 24
+159 1+1 International
+160 Jednotka HD
+Sport
+177 Extreme Sports
+Základní
+181 Love Nature HD
+182 CGTN
+185 KBS World
+186 TV 1000 Russkoje Kino
+18+
+191 Hustler HD
+192 Private HD
+193 Leo Gold HD
+194 Leo TV HD
+195 Eroxxx HD
+196 Extasy HD
+197 Passion XXX HD
+198 Brazzers Europe HD
+199 Desire
+Základní
+201 ČT 1 HD jižní Morava
+202 ČT 1 HD severní Morava
+203 ČT 1 HD severovýchodní Čechy
+204 ČT 1 HD jihozápadní Čechy
+Family
+222 AXN Black
+223 AXN White
+Základní
+224 INULTRA 4K/UHD
+* přímý vstup do aplikace

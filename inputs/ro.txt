@@ -1,0 +1,859 @@
+201
++ONLINE
+channel logo
+TVR Sports
+202
++ONLINE
+channel logo
+Eurosport 1 HD
+203
+channel logo
+Eurosport 1
+204
++ONLINE
+channel logo
+Eurosport 2 HD
+205
+channel logo
+Eurosport 2
+207
++ONLINE
+channel logo
+Pro Arena HD
+208
+channel logo
+Pro Arena
+209
++ONLINE
+channel logo
+Prima Sport 1 HD
+210
+channel logo
+First Sport 1
+211
++ONLINE
+channel logo
+Prima Sport 2 HD
+212
+channel logo
+First Sport 2
+213
++ONLINE
+channel logo
+Prima Sport 3 HD
+214
+channel logo
+First Sport 3
+215
++ONLINE
+channel logo
+Prima Sport 4 HD
+216
+channel logo
+First Sport 4
+217
++ONLINE
+channel logo
+Prima Sport 5 HD
+223
++ONLINE
+channel logo
+Sport Extra HD
+225
+channel logo
+Prima Sport 5 SD
+714
+channel logo
+Columna TV HD
+791
+channel logo
+Trinitas TV
+792
+channel logo
+Angelus TV
+793
+channel logo
+Speranta TV HD
+794
+channel logo
+ALFA OMEGA
+795
+channel logo
+Credo TV
+801
+channel logo
+ZU TV HD
+802
+channel logo
+ZU TV
+803
++ONLINE
+channel logo
+Kiss TV
+804
+channel logo
+UTV
+805
+channel logo
+Music Channel
+806
++ONLINE
+channel logo
+Rock TV
+807
++ONLINE
+channel logo
+Magic TV
+808
++ONLINE
+channel logo
+H!T Music Channel
+809
+channel logo
+Atomic
+810
+channel logo
+Atomic Academy
+811
+channel logo
+Mooz Dance HD
+812
+channel logo
+MTV Europe
+813
++ONLINE
+channel logo
+MTV00's
+814
+channel logo
+MTV 80's
+815
++ONLINE
+channel logo
+MTV 90's
+816
++ONLINE
+channel logo
+MTV Hits
+817
++ONLINE
+channel logo
+Club MTV
+818
++ONLINE
+channel logo
+MTV Live HD
+819
++ONLINE
+channel logo
+Mezzo
+820
++ONLINE
+channel logo
+Mezzo Live HD
+821
++ONLINE
+channel logo
+TVR Folclor
+822
+channel logo
+Traditional TV
+823
+channel logo
+Rapsodia TV
+824
+channel logo
+Orizont TV
+825
+channel logo
+Emi TV
+826
+channel logo
+TV-AS
+827
+channel logo
+Mad World
+829
+channel logo
+Taraf TV
+830
+channel logo
+Party Mix
+831
+channel logo
+Disco Mix HD
+832
+channel logo
+Balkanika MTV
+833
+channel logo
+Boom TV HD
+channel logo
+BBC First HD
+101
++ONLINE
+channel logo
+PRO Cinema HD
+102
+channel logo
+Pro Cinema
+105
++ONLINE
+channel logo
+Acasă Gold HD
+106
+channel logo
+Acasa Gold
+107
+channel logo
+Diva Universal
+109
+channel logo
+Film Café HD
+110
++ONLINE
+channel logo
+Film Cafe
+111
++ONLINE
+channel logo
+AMC HD
+112
+channel logo
+AMC
+113
+channel logo
+FilmMania
+114
++ONLINE
+channel logo
+AXN HD
+115
+channel logo
+AXN
+116
++ONLINE
+channel logo
+AXN White
+117
++ONLINE
+channel logo
+AXN Black
+118
++ONLINE
+channel logo
+AXN Spin
+119
+channel logo
+Warner TV HD
+120
+channel logo
+Warner TV
+121
++ONLINE
+channel logo
+Viasat Kino
+122
+channel logo
+Cinemaraton
+123
++ONLINE
+channel logo
+Comedy Central HD
+124
+channel logo
+Comedy Central
+126
+channel logo
+Epic Drama
+138
++ONLINE
+channel logo
+Bollywood Clasic
+139
+channel logo
+Bollywood Film
+140
+channel logo
+Bollywood Stars
+148
+channel logo
+Prima Comedy
+300
+channel logo
+BBC Earth HD
+301
++ONLINE
+channel logo
+Discovery Channel HD
+302
+channel logo
+Discovery Channel
+303
++ONLINE
+channel logo
+History HD
+304
+channel logo
+History
+305
++ONLINE
+channel logo
+National Geographic HD
+306
+channel logo
+National Geographic
+307
++ONLINE
+channel logo
+National Geographic Wild HD
+308
+channel logo
+National Geographic Wild
+311
+channel logo
+CBS Reality
+313
++ONLINE
+channel logo
+Crime & Investigation
+316
++ONLINE
+channel logo
+Viasat History HD
+317
++ONLINE
+channel logo
+Viasat History
+318
++ONLINE
+channel logo
+Viasat Nature HD
+319
++ONLINE
+channel logo
+Viasat Nature
+320
++ONLINE
+channel logo
+Viasat Explore HD
+321
++ONLINE
+channel logo
+Viasat Explore
+325
+channel logo
+Prima History
+326
+channel logo
+Prima World HD
+327
+channel logo
+Cinethronix
+328
+channel logo
+Medika TV
+1
+channel logo
+Vodafone Info
+10
++ONLINE
+channel logo
+TVR 1 HD
+11
++ONLINE
+channel logo
+TVR 1
+12
++ONLINE
+channel logo
+TVR 2 HD
+13
++ONLINE
+channel logo
+TVR 2
+14
++ONLINE
+channel logo
+TVR 3
+15
++ONLINE
+channel logo
+Pro TV HD
+16
++ONLINE
+channel logo
+Pro TV
+17
+channel logo
+Antena 1 HD
+18
+channel logo
+Antena 1
+19
++ONLINE
+channel logo
+Kanal D HD
+20
++ONLINE
+channel logo
+Kanal D
+21
++ONLINE
+channel logo
+Kanal 2D HD
+22
+channel logo
+Kanal 2D
+23
+channel logo
+Antena Stars HD
+24
+channel logo
+Antena Stars
+25
+channel logo
+Happy Channel HD
+26
+channel logo
+Happy Channel
+27
++ONLINE
+channel logo
+Acasă HD
+28
+channel logo
+Acasa
+29
++ONLINE
+channel logo
+Prima TV HD
+30
+channel logo
+Prima TV
+31
++ONLINE
+channel logo
+National TV
+32
++ONLINE
+channel logo
+National 24 Plus
+33
+channel logo
+Moldova TV
+34
++ONLINE
+channel logo
+Aleph Business
+35
+channel logo
+Apollonia TV
+36
+channel logo
+TeleMoldova PLUS HD
+37
+channel logo
+A 7 TV
+38
+channel logo
+Metropola TV
+40
+channel logo
+Etno TV
+41
++ONLINE
+channel logo
+Inedit TV
+42
++ONLINE
+channel logo
+Favorit TV
+45
+channel logo
+Travel Mix
+46
+channel logo
+Exploris
+47
+channel logo
+Erdély TV HD
+49
+channel logo
+Profi 24 TV
+149
+channel logo
+Nostalgia TV
+350
+channel logo
+HGTV
+450
+channel logo
+BBC News HD
+765
+channel logo
+M Plus HD
+964
+channel logo
+Radio Romania Antena Satelor
+10
++ONLINE
+channel logo
+TVR 1 HD
+11
++ONLINE
+channel logo
+TVR 1
+12
++ONLINE
+channel logo
+TVR 2 HD
+13
++ONLINE
+channel logo
+TVR 2
+14
++ONLINE
+channel logo
+TVR 3
+15
++ONLINE
+channel logo
+Pro TV HD
+16
++ONLINE
+channel logo
+Pro TV
+19
++ONLINE
+channel logo
+Kanal D HD
+20
++ONLINE
+channel logo
+Kanal D
+21
++ONLINE
+channel logo
+Kanal 2D HD
+27
++ONLINE
+channel logo
+Acasă HD
+29
++ONLINE
+channel logo
+Prima TV HD
+31
++ONLINE
+channel logo
+National TV
+32
++ONLINE
+channel logo
+National 24 Plus
+34
++ONLINE
+channel logo
+Aleph Business
+41
++ONLINE
+channel logo
+Inedit TV
+42
++ONLINE
+channel logo
+Favorit TV
+101
++ONLINE
+channel logo
+PRO Cinema HD
+105
++ONLINE
+channel logo
+Acasă Gold HD
+110
++ONLINE
+channel logo
+Film Cafe
+111
++ONLINE
+channel logo
+AMC HD
+114
++ONLINE
+channel logo
+AXN HD
+116
++ONLINE
+channel logo
+AXN White
+117
++ONLINE
+channel logo
+AXN Black
+118
++ONLINE
+channel logo
+AXN Spin
+121
++ONLINE
+channel logo
+Viasat Kino
+123
++ONLINE
+channel logo
+Comedy Central HD
+138
++ONLINE
+channel logo
+Bollywood Clasic
+201
++ONLINE
+channel logo
+TVR Sport
+202
++ONLINE
+channel logo
+Eurosport 1 HD
+204
++ONLINE
+channel logo
+Eurosport 2 HD
+207
++ONLINE
+channel logo
+Pro Arena HD
+209
++ONLINE
+channel logo
+Prima Sport 1 HD
+211
++ONLINE
+channel logo
+Prima Sport 2 HD
+213
++ONLINE
+channel logo
+Prima Sport 3 HD
+215
++ONLINE
+channel logo
+Prima Sport 4 HD
+217
++ONLINE
+channel logo
+Prima Sport 5 HD
+223
++ONLINE
+channel logo
+Sport Extra HD
+252
++ONLINE
+channel logo
+TV5 Monde
+301
++ONLINE
+channel logo
+Discovery Channel HD
+303
++ONLINE
+channel logo
+History HD
+305
++ONLINE
+channel logo
+National Geographic HD
+307
++ONLINE
+channel logo
+National Geographic Wild HD
+313
++ONLINE
+channel logo
+Crime & Investigation
+316
++ONLINE
+channel logo
+Viasat History HD
+317
++ONLINE
+channel logo
+Viasat History
+318
++ONLINE
+channel logo
+Viasat Nature HD
+319
++ONLINE
+channel logo
+Viasat Nature
+320
++ONLINE
+channel logo
+Viasat Explore HD
+321
++ONLINE
+channel logo
+Viasat Explore
+351
++ONLINE
+channel logo
+TLC
+353
++ONLINE
+channel logo
+TV Paprika HD
+355
++ONLINE
+channel logo
+Food Network
+356
++ONLINE
+channel logo
+Fashion TV HD
+357
++ONLINE
+channel logo
+Sens TV
+401
++ONLINE
+channel logo
+Romania TV HD
+406
++ONLINE
+channel logo
+Realitatea PLUS
+409
++ONLINE
+channel logo
+B1 TV
+411
++ONLINE
+channel logo
+Euronews Romania HD
+414
++ONLINE
+channel logo
+Aleph News
+451
++ONLINE
+channel logo
+Euronews
+452
++ONLINE
+channel logo
+CNN International
+453
++ONLINE
+channel logo
+France 24
+454
++ONLINE
+channel logo
+CNBC
+455
++ONLINE
+channel logo
+Bloomberg
+501
++ONLINE
+channel logo
+Minimax
+502
++ONLINE
+channel logo
+Cartoon Network
+503
++ONLINE
+channel logo
+Disney Channel
+504
++ONLINE
+channel logo
+TeenNick
+505
++ONLINE
+channel logo
+Cartoonito
+506
++ONLINE
+channel logo
+Nickelodeon
+507
++ONLINE
+channel logo
+Jim Jam
+508
++ONLINE
+channel logo
+Disney Junior
+509
++ONLINE
+channel logo
+Baby TV
+510
++ONLINE
+channel logo
+Nick Jr.
+511
++ONLINE
+channel logo
+Nicktoons
+643
++ONLINE
+channel logo
+TVEi
+644
++ONLINE
+channel logo
+DW
+803
++ONLINE
+channel logo
+Kiss TV
+806
++ONLINE
+channel logo
+Rock TV
+807
++ONLINE
+channel logo
+Magic TV
+808
++ONLINE
+channel logo
+H!T Music Channel
+813
++ONLINE
+channel logo
+MTV00's
+815
++ONLINE
+channel logo
+MTV 90's
+816
++ONLINE
+channel logo
+MTV Hits
+817
++ONLINE
+channel logo
+Club MTV
+818
++ONLINE
+channel logo
+MTV Live HD
+819
++ONLINE
+channel logo
+Mezzo
+820
++ONLINE
+channel logo
+Mezzo Live HD
+821
++ONLINE
+channel logo
+TVR Folclor
+
